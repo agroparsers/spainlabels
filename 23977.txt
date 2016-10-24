@@ -1,0 +1,75 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.977
+Nombre comercial: SIGNUM
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF AKTIENGESELLSCHAFT
+Crop Protection Division Agricultural Center
+D-67058 LIMBURGERHOF
+LUDWIGSHAFEN
+ALEMANIA
+Fecha de inscripción: 18/10/2007
+Fecha de caducidad: 31/07/2016
+Tipo de envase:
+Envases de 1 y 5 Kg.
+Composición: BOSCALIDA 26,7% + PIRACLOSTROBIN 6,7% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Fresales BOTRITIS 0,18 % 3
+(2) Fresales ESCLEROTINIA 0,1-0,18 % 3
+(3) Fresales OIDIO 0,1-0,18 % 3
+(4) Lechuga BOTRITIS 0,15 % 7
+(5) Lechuga ESCLEROTINIA 0,1-0,15 % 7
+(6) Pimiento BOTRITIS 0,15 % 3
+(7) Pimiento ESCLEROTINIA 0,1-0,15 % 3
+(8) Pimiento OIDIOPSIS 0,1-0,15 % 3
+(9) Tomate BOTRITIS 0,15 % 3
+(10) Tomate ESCLEROTINIA 0,1-0,15 % 3
+(11) Tomate OIDIOPSIS 0,1-0,15 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (4), (5) Sólo al aire libre. Efectuar un máximo de 2 aplicaciones por ciclo de cultivo espaciadas 7-10
+días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.977
+Nombre comercial: SIGNUM
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. para fresales,
+tomate y pimiento y 10 m. para lechuga, hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Aplicación manual y mediante tractor. El operario deberá utilizar protección respiratoria (máscara o mascarilla más
+filtros P2 o mascarilla autofiltrante FFP2), durante la mezcla-carga. Guantes adecuados durante la mezcla/carga y
+aplicación del producto, así como ropa de proteccion adecuada para el tronco y las piernas. Además para las
+aplicaciones manuales se debera utilizar ropa impermeable para las piernas y botas impermeables.
+Las aplicaciones serán sólo al aire libre.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R22, R50/53
+Consejos de prudencia: S2, S13, S45, S36/37, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

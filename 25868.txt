@@ -1,0 +1,84 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.868
+Nombre comercial: BOUDHA
+Titular:
+ROTAM AGROCHEMICAL EUROPE LIMITED
+Hamilton House, Mabledon Place
+WC1H9BB
+Londres
+Reino Unido
+Fabricante:
+ROTAM AGROCHEMICAL CO. LTD.
+26/F, E-Trade Plaza, 24 Lee Cheung Street
+Chai Wan
+Hong Kong
+CHINA
+Fecha de inscripción: 27/06/2016
+Fecha de caducidad: 31/10/2018
+Tipo de envase:
+Botellas de plástico (HDPE) de 60 a 1000 g. 
+Composición: METSULFURON METIL 25% + TRIBENURON-METIL 25% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena DICOTILEDONEAS ANUALES 20 g/ha NP
+(2) Cebada DICOTILEDONEAS ANUALES 20 g/ha NP
+(3) Centeno DICOTILEDONEAS ANUALES 20 g/ha NP
+(4) Trigo DICOTILEDONEAS ANUALES 20 g/ha NP
+(5) Triticale DICOTILEDONEAS ANUALES 20 g/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento herbicida en trigo de primavera, trigo duro de primavera, cebada de primavera, cebada de
+invierno, avena de primavera, avena de invierno, trigo de invierno, trigo duro de invierno, centeno de
+primavera, centeno de invierno y triticale contra dicotiledóneas en aplicación en primavera.
+Para todos los cultivos autorizados aplicar un máximo de 0,02 kg/ha y en un volumen de caldo de
+200-400 l/ha. 
+Se aplica por pulverización normal con tractor. Una aplicación por campaña en cereales de
+primavera desde estado BBCH 12 (2 hojas, desplegadas) a BBCH 39 (9 o más entrenudos
+perceptibles), en cereales de invierno desde el estado BBCH 20 (no hay brotes laterales) a BBCH 39
+(9 o más entrenudos perceptibles) y en triticale no más tarde del BBCH 39 (9 o más entrenudos
+perceptibles).
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.868
+Nombre comercial: BOUDHA
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de agua
+superficial de 
+- 20 m con cubierta vegetal para el uso en cereales de primavera.
+- 50 m de los cuales 20 m con cubierta vegetal para cereales de invierno con aplicación en primavera.
+SPe3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10m hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En todos los usos autorizados, durante la mezcla/carga, aplicación, limpieza y mantenimiento se deberán utilizar
+guantes de protección química como mínima medida de protección individual.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Seguridad del trabajador:
+No entrar al cultivo hasta que el producto esté seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 208, EUH 210, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Uso Restringido: Uso profesional
+Otras indicaciones reglamentarias: Contiene tribenuron metil. Puede provocar una reaccion alérgica.
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
